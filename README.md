@@ -15,4 +15,4 @@
 
 **Markdown** nos sirve para escribir y darle formato a un texto de manera rápida, fácil y sin complicaciones. En lugar de estar buscando botones para poner negritas, encabezados o listas como en Word, solo usamos símbolos sencillos 
 
-![Captura de pantalla Markdown](file:///C:/Users/alexa/.gemini/antigravity-ide/brain/24383556-f9ed-4fa0-b8fd-0f992f029f19/user_screenshot.png)
+![Captura de pantalla Markdown](Captura%20de%20pantalla%202026-08-16%20135519.png)
