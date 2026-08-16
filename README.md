@@ -13,11 +13,6 @@
 
 ## ¿Para qué sirve Markdown?
 
-**Markdown** nos sirve para escribir y darle formato a un texto de manera súper rápida, fácil y sin complicaciones. En lugar de estar buscando botones para poner negritas, encabezados o listas como en Word, solo usamos símbolos sencillos (como asteriscos `*` o numerales `#`).
+**Markdown** nos sirve para escribir y darle formato a un texto de manera rápida, fácil y sin complicaciones. En lugar de estar buscando botones para poner negritas, encabezados o listas como en Word, solo usamos símbolos sencillos 
 
-Nos ayuda a:
-* **Redactar más rápido:** Escribes el contenido y le das formato al mismo tiempo sin despegar las manos del teclado.
-* **Mantener todo ordenado:** Permite estructurar documentos, notas o documentación de código de forma clara y limpia.
-* **Usarlo donde sea:** Se lee perfecto en cualquier editor y es el estándar preferido para documentar proyectos en GitHub, blogs y páginas web.
-
-![Captura de pantalla Markdown](./captura_markdown.png)
+![Captura de pantalla Markdown](file:///C:/Users/alexa/.gemini/antigravity-ide/brain/24383556-f9ed-4fa0-b8fd-0f992f029f19/user_screenshot.png)
